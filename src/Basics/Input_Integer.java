@@ -13,10 +13,6 @@ public class Input_Integer {
     data and BufferedReader simply reads a sequence of characters.
  
  */
-	
-	
-	
-	
 	public static void main(String[] args) {
 		System.out.println("hi");
 		
